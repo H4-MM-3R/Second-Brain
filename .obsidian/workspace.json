@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "3f1ebddf8847d8b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "79cc4daf0f3cb2dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "faba0bc616030daf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating Systems/3. Process Synchronization/Synchronization Mechanism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "594fab1fd4844bda",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Operating Systems/OS Canvas.canvas",
+                "viewState": {
+                  "x": 6931.222253953197,
+                  "y": -2228.910990735077,
+                  "zoom": -3.9166666666666665
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fce2c97a55ced84d",
+    "type": "split",
+    "children": [
+      {
+        "id": "770d0109fc64afb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecd0f8d0d2fc13db",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ddc09c483e07aedf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3733128a5420f7b6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "71fc6e6445287af8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "20ae09b2f0ad2778",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d6ec19dc2861343",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "266b600746bf230c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Operating Systems/OS Canvas.canvas",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "97dded21feea6eba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Operating Systems/OS Canvas.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1dd91d83363148a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7a04cd7d1530a782",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Operating Systems/OS Canvas.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "zk-prefixer:Create new unique note": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "594fab1fd4844bda",
+  "lastOpenFiles": [
+    "Operating Systems/3. Process Synchronization/Producer Consumer Solution using Semaphores.md",
+    "Operating Systems/3. Process Synchronization/Process Synchronization.md",
+    "Operating Systems/3. Process Synchronization/Printer Spooler Problem.md",
+    "Operating Systems/3. Process Synchronization/Dining Philosophers Problem.md",
+    "Operating Systems/3. Process Synchronization/Critical Section Solutions.md",
+    "Operating Systems/3. Process Synchronization/Critical Section.md",
+    "Operating Systems/3. Process Synchronization/Binary Semaphore.md",
+    "Operating Systems/3. Process Synchronization/Drawings/Synchronization Mechanism-Progress.md",
+    "Operating Systems/3. Process Synchronization/Drawings/Synchronization Mechanism-Mutual Exclusion.md",
+    "Operating Systems/3. Process Synchronization/Drawings/Synchronization Mechanism-Bounded Wait.md",
+    "Operating Systems/3. Process Synchronization/Drawings/Producer Consumer Problem-drw.md",
+    "Operating Systems/3. Process Synchronization/Drawings/Process Synchronization-Race-cond.md",
+    "Operating Systems/3. Process Synchronization/Drawings/Process Synchronization-drw.md",
+    "Operating Systems/3. Process Synchronization/Drawings/Printer Spooler Problem-drw.md",
+    "Operating Systems/3. Process Synchronization/Drawings/Critical Section-drw.md",
+    "Operating Systems/3. Process Synchronization/Synchronization Mechanism.md",
+    "Operating Systems/3. Process Synchronization/Producer Consumer Problem.md",
+    "Operating Systems/4. Deadlocks/Banker's Algorithm.md",
+    "Operating Systems/4. Deadlocks/Resource Allocation Graph.md",
+    "Operating Systems/4. Deadlocks/Multiple Instance Resource Allocation Graph.md",
+    "Operating Systems/4. Deadlocks/Deadlock Handling.md",
+    "Operating Systems/4. Deadlocks/Deadlock.md",
+    "Operating Systems/5. Memory Management/Memory Management and Degree of MultiProgramming.md",
+    "Operating Systems/5. Memory Management/Drawings/Memory Management and Degree of Multi-Programming-drw.md",
+    "Operating Systems/4. Deadlocks/Drawings/Multiple Instance Resource Allocation Graph-drw.md",
+    "Operating Systems/5. Memory Management/Drawings",
+    "Operating Systems/OS Canvas.canvas",
+    "Operating Systems/4. Deadlocks/Drawings/Deadlock-drw.md",
+    "Operating Systems/5. Memory Management/Virtual_Memory_image.png",
+    "Operating Systems/5. Memory Management/utilization.png.png",
+    "Operating Systems/5. Memory Management/Translation Lookaside Buffer_img.jpg",
+    "Operating Systems/4. Deadlocks/Drawings",
+    "Operating Systems/3. Process Synchronization/Drawings",
+    "Operating Systems/2. CPU Scheduling/Drawings",
+    "Operating Systems/1. Intro/Drawings/Untitled.canvas",
+    "Operating Systems/1. Intro/Drawings",
+    "Excalidraw",
+    "Neovim",
+    "Operating Systems/5. Memory Management/Translation Lookaside Buffer_img.jpg.crdownload",
+    "Operating Systems/5. Memory Management/Virtual Memory.png",
+    "Operating Systems/5. Memory Management/Screenshot 2023-04-20 210146.png",
+    "Operating Systems/5. Memory Management",
+    "Operating Systems/4. Deadlocks",
+    "Pasted image 20230227145605.png",
+    "Pasted image 20230227145558.png",
+    "Object-Oriented-Programming/Operating System.canvas"
+  ]
+}
