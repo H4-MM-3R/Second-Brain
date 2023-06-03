@@ -23,19 +23,34 @@
             "id": "594fab1fd4844bda",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "Operating Systems/OS Canvas.canvas",
-                "viewState": {
-                  "x": 6032.887295110895,
-                  "y": -3185.371388621062,
-                  "zoom": -1.969857985973359
-                }
+                "file": "Operating Systems/3. Process Synchronization/Drawings/Printer Spooler Problem-drw.svg"
+              }
+            }
+          },
+          {
+            "id": "7d3daebb3cb7e83c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Operating Systems/3. Process Synchronization/Drawings/Critical Section-drw.md"
+              }
+            }
+          },
+          {
+            "id": "afe29e63e3df7e5e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Operating Systems/3. Process Synchronization/Drawings/Printer Spooler Problem-drw.svg"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/OS Canvas.canvas",
+                "file": "Operating Systems/3. Process Synchronization/Drawings/Printer Spooler Problem-drw.svg",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/OS Canvas.canvas",
+                "file": "Operating Systems/3. Process Synchronization/Drawings/Printer Spooler Problem-drw.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/OS Canvas.canvas"
+                "file": "Operating Systems/3. Process Synchronization/Drawings/Printer Spooler Problem-drw.svg"
               }
             }
           }
@@ -174,23 +189,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "594fab1fd4844bda",
+  "active": "afe29e63e3df7e5e",
   "lastOpenFiles": [
+    "Operating Systems/3. Process Synchronization/Drawings/Printer Spooler Problem-drw.md",
+    "Operating Systems/3. Process Synchronization/Drawings/Printer Spooler Problem-drw.svg",
+    "Operating Systems/3. Process Synchronization/Drawings/Critical Section-drw.md",
+    "Operating Systems/3. Process Synchronization/Drawings/Printer Spooler Problem-drw.png.png",
+    "Operating Systems/3. Process Synchronization/Critical Section.md",
+    "Operating Systems/3. Process Synchronization/Critical Section Solutions.md",
+    "Operating Systems/3. Process Synchronization/Binary Semaphore.md",
+    "Operating Systems/OS Canvas.canvas",
     "Operating Systems/3. Process Synchronization/Producer Consumer Solution using Semaphores.md",
     "Operating Systems/3. Process Synchronization/Process Synchronization.md",
     "Operating Systems/3. Process Synchronization/Printer Spooler Problem.md",
     "Operating Systems/3. Process Synchronization/Dining Philosophers Problem.md",
-    "Operating Systems/3. Process Synchronization/Critical Section Solutions.md",
-    "Operating Systems/3. Process Synchronization/Critical Section.md",
-    "Operating Systems/3. Process Synchronization/Binary Semaphore.md",
     "Operating Systems/3. Process Synchronization/Drawings/Synchronization Mechanism-Progress.md",
     "Operating Systems/3. Process Synchronization/Drawings/Synchronization Mechanism-Mutual Exclusion.md",
     "Operating Systems/3. Process Synchronization/Drawings/Synchronization Mechanism-Bounded Wait.md",
     "Operating Systems/3. Process Synchronization/Drawings/Producer Consumer Problem-drw.md",
     "Operating Systems/3. Process Synchronization/Drawings/Process Synchronization-Race-cond.md",
     "Operating Systems/3. Process Synchronization/Drawings/Process Synchronization-drw.md",
-    "Operating Systems/3. Process Synchronization/Drawings/Printer Spooler Problem-drw.md",
-    "Operating Systems/3. Process Synchronization/Drawings/Critical Section-drw.md",
     "Operating Systems/3. Process Synchronization/Synchronization Mechanism.md",
     "Operating Systems/3. Process Synchronization/Producer Consumer Problem.md",
     "Operating Systems/4. Deadlocks/Banker's Algorithm.md",
@@ -202,8 +220,6 @@
     "Operating Systems/5. Memory Management/Drawings/Memory Management and Degree of Multi-Programming-drw.md",
     "Operating Systems/4. Deadlocks/Drawings/Multiple Instance Resource Allocation Graph-drw.md",
     "Operating Systems/5. Memory Management/Drawings",
-    "Operating Systems/OS Canvas.canvas",
-    "Operating Systems/4. Deadlocks/Drawings/Deadlock-drw.md",
     "Operating Systems/5. Memory Management/Virtual_Memory_image.png",
     "Operating Systems/5. Memory Management/utilization.png.png",
     "Operating Systems/5. Memory Management/Translation Lookaside Buffer_img.jpg",
