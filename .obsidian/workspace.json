@@ -4,15 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "9fa3b34e51e233ac",
+        "id": "a103fb48ab0851c3",
         "type": "tabs",
         "children": [
           {
-            "id": "bd5f5ebe7054c3c6",
+            "id": "a611589e6720fbbe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Operating Systems/3. Process Synchronization/Critical Section Solutions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82c312a92d0f6c51",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Operating Systems/3. Process Synchronization/Drawings/Critical Section Solutions-drw.md"
+              }
             }
           }
         ]
@@ -73,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.5
+    "width": 200
   },
   "right": {
     "id": "20ae09b2f0ad2778",
@@ -89,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Operating Systems/3. Process Synchronization/Critical Section Solutions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Operating Systems/3. Process Synchronization/Critical Section Solutions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Operating Systems/3. Process Synchronization/Critical Section Solutions.md"
+              }
             }
           }
         ]
@@ -150,11 +168,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ecd0f8d0d2fc13db",
+  "active": "a611589e6720fbbe",
   "lastOpenFiles": [
+    "Operating Systems/3. Process Synchronization/Drawings/Critical Section Solutions-drw.md",
+    "Operating Systems/3. Process Synchronization/Critical Section Solutions.md",
+    "Operating Systems/3. Process Synchronization/Drawings/Synchronization Mechanism-Bounded Wait.md",
+    "Operating Systems/3. Process Synchronization/Printer Spooler Problem.md",
+    "Operating Systems/3. Process Synchronization/Drawings/Printer Spooler Problem-drw.md",
+    "Operating Systems/3. Process Synchronization/Producer Consumer Problem.md",
+    "Operating Systems/3. Process Synchronization/Process Synchronization.md",
+    "Operating Systems/3. Process Synchronization/Drawings/Synchronization Mechanism-Mutual Exclusion.md",
+    "Operating Systems/3. Process Synchronization/Drawings/Synchronization Mechanism-Progress.md",
+    "Operating Systems/3. Process Synchronization/Drawings/Printer Spooler Problem-drw_0.md",
     "Operating Systems/3. Process Synchronization/Drawings/Drawing 2023-06-03 22.47.01.excalidraw",
     "Excalidraw/Drawing 2023-06-03 22.46.40.excalidraw",
-    "Operating Systems/3. Process Synchronization/Drawings/Printer Spooler Problem-drw.md",
     "Excalidraw",
     "Printer Spooler Problem-drw.excalidraw",
     "Operating Systems/3. Process Synchronization/Drawings/Printer Spooler Problem-drw.excalidraw",
@@ -162,21 +189,14 @@
     "Operating Systems/3. Process Synchronization/Drawings/Critical Section-drw.md",
     "Operating Systems/3. Process Synchronization/Drawings/Printer Spooler Problem-drw.png.png",
     "Operating Systems/3. Process Synchronization/Critical Section.md",
-    "Operating Systems/3. Process Synchronization/Critical Section Solutions.md",
     "Operating Systems/3. Process Synchronization/Binary Semaphore.md",
     "Operating Systems/OS Canvas.canvas",
     "Operating Systems/3. Process Synchronization/Producer Consumer Solution using Semaphores.md",
-    "Operating Systems/3. Process Synchronization/Process Synchronization.md",
-    "Operating Systems/3. Process Synchronization/Printer Spooler Problem.md",
     "Operating Systems/3. Process Synchronization/Dining Philosophers Problem.md",
-    "Operating Systems/3. Process Synchronization/Drawings/Synchronization Mechanism-Progress.md",
-    "Operating Systems/3. Process Synchronization/Drawings/Synchronization Mechanism-Mutual Exclusion.md",
-    "Operating Systems/3. Process Synchronization/Drawings/Synchronization Mechanism-Bounded Wait.md",
     "Operating Systems/3. Process Synchronization/Drawings/Producer Consumer Problem-drw.md",
     "Operating Systems/3. Process Synchronization/Drawings/Process Synchronization-Race-cond.md",
     "Operating Systems/3. Process Synchronization/Drawings/Process Synchronization-drw.md",
     "Operating Systems/3. Process Synchronization/Synchronization Mechanism.md",
-    "Operating Systems/3. Process Synchronization/Producer Consumer Problem.md",
     "Operating Systems/4. Deadlocks/Banker's Algorithm.md",
     "Operating Systems/4. Deadlocks/Resource Allocation Graph.md",
     "Operating Systems/4. Deadlocks/Multiple Instance Resource Allocation Graph.md",
@@ -184,7 +204,6 @@
     "Operating Systems/4. Deadlocks/Deadlock.md",
     "Operating Systems/5. Memory Management/Memory Management and Degree of MultiProgramming.md",
     "Operating Systems/5. Memory Management/Drawings/Memory Management and Degree of Multi-Programming-drw.md",
-    "Operating Systems/4. Deadlocks/Drawings/Multiple Instance Resource Allocation Graph-drw.md",
     "Operating Systems/5. Memory Management/Drawings",
     "Operating Systems/5. Memory Management/Virtual_Memory_image.png",
     "Operating Systems/5. Memory Management/utilization.png.png",
@@ -194,7 +213,6 @@
     "Operating Systems/2. CPU Scheduling/Drawings",
     "Operating Systems/1. Intro/Drawings/Untitled.canvas",
     "Operating Systems/1. Intro/Drawings",
-    "Neovim",
     "Operating Systems/5. Memory Management/Virtual Memory.png",
     "Operating Systems/5. Memory Management/Screenshot 2023-04-20 210146.png",
     "Pasted image 20230227145605.png",

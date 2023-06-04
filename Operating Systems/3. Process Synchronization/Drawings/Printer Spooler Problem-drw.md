@@ -34,8 +34,6 @@ f2.doc ^dZsNAGD0
 
 f3.doc ^LmKd2YSi
 
-Hello there folks ^8LhMUN1b
-
 %%
 # Drawing
 ```json
@@ -626,8 +624,8 @@ Hello there folks ^8LhMUN1b
 		},
 		{
 			"type": "arrow",
-			"version": 67,
-			"versionNonce": 1436004496,
+			"version": 68,
+			"versionNonce": 1625880908,
 			"isDeleted": false,
 			"id": "E2kq_jcNldhqwM5uLXX4W",
 			"fillStyle": "hachure",
@@ -646,7 +644,7 @@ Hello there folks ^8LhMUN1b
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1685812527277,
+			"updated": 1685816277488,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -803,40 +801,40 @@ Hello there folks ^8LhMUN1b
 			"baseline": 18
 		},
 		{
-			"id": "8LhMUN1b",
 			"type": "text",
-			"x": 223.83374461790618,
-			"y": 340.5182189979074,
-			"width": 161.8798370361328,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 22,
+			"versionNonce": 412882508,
+			"isDeleted": true,
+			"id": "8LhMUN1b",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 223.83374461790618,
+			"y": 340.5182189979074,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 10,
+			"height": 25,
+			"seed": 1690292848,
 			"groupIds": [],
 			"roundness": null,
-			"seed": 1690292848,
-			"version": 20,
-			"versionNonce": 867773072,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1685812534773,
+			"boundElements": [],
+			"updated": 1685816283997,
 			"link": null,
 			"locked": false,
-			"text": "Hello there folks",
-			"rawText": "Hello there folks",
 			"fontSize": 20,
 			"fontFamily": 1,
+			"text": "",
+			"rawText": "",
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 18,
 			"containerId": null,
-			"originalText": "Hello there folks",
-			"lineHeight": 1.25
+			"originalText": "",
+			"lineHeight": 1.25,
+			"baseline": 18
 		}
 	],
 	"appState": {
@@ -854,10 +852,10 @@ Hello there folks ^8LhMUN1b
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 729.2189980550721,
-		"scrollY": 482.5403326929743,
+		"scrollX": 337.5229195867663,
+		"scrollY": 178.56166255986977,
 		"zoom": {
-			"value": 0.9191516489875761
+			"value": 1.7000000000000002
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,

@@ -1,4 +1,5 @@
 ### Critical Section Solution using "Lock" Variable
+![[Critical Section Solutions-drw|center]]
 ```c
 
 do{
@@ -8,13 +9,8 @@ do{
 }
 
 // meaning if Lock equals to 1 then it goes infinite loop untill its not 1
-while(LOCK == 1) 
-LOCK = 1         // Entry Code
-
-Critical Section
-
-LOCK = 0;        // Exit code
 ```
+
 - Execute in **User Mode**
 - Multi-Process Solution
 - No Mutual Exclusion is guaranteed 
