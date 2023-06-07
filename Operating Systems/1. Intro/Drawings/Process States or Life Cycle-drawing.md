@@ -67,7 +67,7 @@ Backing Store ^q6IHxWPi
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.2",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.3",
 	"elements": [
 		{
 			"type": "ellipse",
@@ -569,8 +569,8 @@ Backing Store ^q6IHxWPi
 		},
 		{
 			"type": "arrow",
-			"version": 1217,
-			"versionNonce": 110209392,
+			"version": 1221,
+			"versionNonce": 1711039357,
 			"isDeleted": false,
 			"id": "1MDyvGmLQxd7esFiekVTj",
 			"fillStyle": "hachure",
@@ -596,7 +596,7 @@ Backing Store ^q6IHxWPi
 					"id": "6iSMipAF"
 				}
 			],
-			"updated": 1685373279113,
+			"updated": 1686114145362,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -665,8 +665,8 @@ Backing Store ^q6IHxWPi
 		},
 		{
 			"type": "arrow",
-			"version": 1648,
-			"versionNonce": 675108752,
+			"version": 1652,
+			"versionNonce": 644578611,
 			"isDeleted": false,
 			"id": "bWt9cq70emO3Qe8OdPiEd",
 			"fillStyle": "hachure",
@@ -692,7 +692,7 @@ Backing Store ^q6IHxWPi
 					"id": "Ay2Ge2t8"
 				}
 			],
-			"updated": 1685373279112,
+			"updated": 1686114145361,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -761,8 +761,8 @@ Backing Store ^q6IHxWPi
 		},
 		{
 			"type": "arrow",
-			"version": 2438,
-			"versionNonce": 811019664,
+			"version": 2442,
+			"versionNonce": 1401659475,
 			"isDeleted": false,
 			"id": "B51yCLXgU02YjW-0L2OXQ",
 			"fillStyle": "hachure",
@@ -788,7 +788,7 @@ Backing Store ^q6IHxWPi
 					"id": "wyvVKnNA"
 				}
 			],
-			"updated": 1685373279110,
+			"updated": 1686114145357,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -857,8 +857,8 @@ Backing Store ^q6IHxWPi
 		},
 		{
 			"type": "arrow",
-			"version": 1780,
-			"versionNonce": 1983576976,
+			"version": 1784,
+			"versionNonce": 679091699,
 			"isDeleted": false,
 			"id": "9l8tFKi6veQergf6TsVsO",
 			"fillStyle": "hachure",
@@ -884,7 +884,7 @@ Backing Store ^q6IHxWPi
 					"id": "bpsEmBpu"
 				}
 			],
-			"updated": 1685373279111,
+			"updated": 1686114145359,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -953,8 +953,8 @@ Backing Store ^q6IHxWPi
 		},
 		{
 			"type": "arrow",
-			"version": 851,
-			"versionNonce": 173585296,
+			"version": 859,
+			"versionNonce": 209587315,
 			"isDeleted": false,
 			"id": "8LiPuiFPqe5q1ZAhabDlA",
 			"fillStyle": "hachure",
@@ -975,7 +975,7 @@ Backing Store ^q6IHxWPi
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1685373279113,
+			"updated": 1686114145363,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1157,8 +1157,8 @@ Backing Store ^q6IHxWPi
 		},
 		{
 			"type": "arrow",
-			"version": 870,
-			"versionNonce": 600565136,
+			"version": 874,
+			"versionNonce": 1359699667,
 			"isDeleted": false,
 			"id": "NG1T6lrmhNytrDQecMQoG",
 			"fillStyle": "hachure",
@@ -1184,7 +1184,7 @@ Backing Store ^q6IHxWPi
 					"id": "Zo6O8ZOf"
 				}
 			],
-			"updated": 1685373279113,
+			"updated": 1686114145362,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1533,8 +1533,8 @@ Backing Store ^q6IHxWPi
 		},
 		{
 			"type": "arrow",
-			"version": 1035,
-			"versionNonce": 718437744,
+			"version": 1039,
+			"versionNonce": 1372861757,
 			"isDeleted": false,
 			"id": "cjFOZ6P3IMzQh9ULA3yLp",
 			"fillStyle": "hachure",
@@ -1555,7 +1555,7 @@ Backing Store ^q6IHxWPi
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1685373279108,
+			"updated": 1686114145355,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1588,8 +1588,8 @@ Backing Store ^q6IHxWPi
 		},
 		{
 			"type": "arrow",
-			"version": 975,
-			"versionNonce": 2142392720,
+			"version": 979,
+			"versionNonce": 211978515,
 			"isDeleted": false,
 			"id": "8FOjs2XOHaivMG8AC3Wjg",
 			"fillStyle": "hachure",
@@ -1610,7 +1610,7 @@ Backing Store ^q6IHxWPi
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1685373279108,
+			"updated": 1686114145355,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1825,8 +1825,8 @@ Backing Store ^q6IHxWPi
 		},
 		{
 			"type": "arrow",
-			"version": 354,
-			"versionNonce": 1802112368,
+			"version": 358,
+			"versionNonce": 193816637,
 			"isDeleted": false,
 			"id": "rj4x1CzDt1g4t-JMCSqvy",
 			"fillStyle": "hachure",
@@ -1847,7 +1847,7 @@ Backing Store ^q6IHxWPi
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1685373279114,
+			"updated": 1686114145364,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1880,8 +1880,8 @@ Backing Store ^q6IHxWPi
 		},
 		{
 			"type": "arrow",
-			"version": 334,
-			"versionNonce": 1645986192,
+			"version": 338,
+			"versionNonce": 1284113939,
 			"isDeleted": false,
 			"id": "JBIDEVrEgWhDfSQoj8MI6",
 			"fillStyle": "hachure",
@@ -1902,7 +1902,7 @@ Backing Store ^q6IHxWPi
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1685373279114,
+			"updated": 1686114145364,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1999,8 +1999,8 @@ Backing Store ^q6IHxWPi
 		},
 		{
 			"type": "arrow",
-			"version": 663,
-			"versionNonce": 799465328,
+			"version": 667,
+			"versionNonce": 495933597,
 			"isDeleted": false,
 			"id": "sZQz-cN7v95yM-g-RAOHP",
 			"fillStyle": "hachure",
@@ -2026,7 +2026,7 @@ Backing Store ^q6IHxWPi
 					"id": "q6IHxWPi"
 				}
 			],
-			"updated": 1685373279114,
+			"updated": 1686114145364,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2096,7 +2096,7 @@ Backing Store ^q6IHxWPi
 	],
 	"appState": {
 		"theme": "dark",
-		"viewBackgroundColor": "#f1f1f1",
+		"viewBackgroundColor": "#c1f5ff",
 		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
@@ -2109,8 +2109,8 @@ Backing Store ^q6IHxWPi
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1076.3254295097365,
-		"scrollY": 734.7704821747873,
+		"scrollX": 937.9920961764032,
+		"scrollY": 733.7600655081205,
 		"zoom": {
 			"value": 0.75
 		},

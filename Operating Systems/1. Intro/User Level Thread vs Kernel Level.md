@@ -6,6 +6,9 @@
 | if thread is blocked , process is blocked| if thread is blocked, No effect on others|
 
 
-> [!NOTE] Note
+> [!tip] Note
 > - Creating a **Kernel Level Thread** is ***similiar*** to creating a **Process**
 > -  Process Time > KLT Time > ULT Time
+
+
+

@@ -1,2 +1,2 @@
 # Second Brain
- My style of Zettelkasten
+My Personal Knowledge Management System by **Zettelkasten Method** . 

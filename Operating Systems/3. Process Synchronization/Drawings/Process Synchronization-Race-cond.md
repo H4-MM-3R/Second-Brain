@@ -29,12 +29,12 @@ Shared = Y; ^11BfgkIt
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.2",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.3",
 	"elements": [
 		{
 			"type": "text",
-			"version": 95,
-			"versionNonce": 1043331440,
+			"version": 97,
+			"versionNonce": 259729526,
 			"isDeleted": false,
 			"id": "i0SFvitV",
 			"fillStyle": "hachure",
@@ -53,7 +53,7 @@ Shared = Y; ^11BfgkIt
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1685374360471,
+			"updated": 1686076002407,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -69,8 +69,8 @@ Shared = Y; ^11BfgkIt
 		},
 		{
 			"type": "text",
-			"version": 150,
-			"versionNonce": 567030128,
+			"version": 152,
+			"versionNonce": 394412522,
 			"isDeleted": false,
 			"id": "Va4LlYy2",
 			"fillStyle": "hachure",
@@ -89,7 +89,7 @@ Shared = Y; ^11BfgkIt
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1685374357433,
+			"updated": 1686076002407,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -105,8 +105,8 @@ Shared = Y; ^11BfgkIt
 		},
 		{
 			"type": "text",
-			"version": 69,
-			"versionNonce": 1438971248,
+			"version": 71,
+			"versionNonce": 1244309942,
 			"isDeleted": false,
 			"id": "vWnf9w3r",
 			"fillStyle": "hachure",
@@ -130,7 +130,7 @@ Shared = Y; ^11BfgkIt
 					"type": "arrow"
 				}
 			],
-			"updated": 1685374293261,
+			"updated": 1686076002407,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -146,8 +146,8 @@ Shared = Y; ^11BfgkIt
 		},
 		{
 			"type": "text",
-			"version": 43,
-			"versionNonce": 1360192368,
+			"version": 45,
+			"versionNonce": 1115059370,
 			"isDeleted": false,
 			"id": "11BfgkIt",
 			"fillStyle": "hachure",
@@ -175,7 +175,7 @@ Shared = Y; ^11BfgkIt
 					"type": "arrow"
 				}
 			],
-			"updated": 1685374293261,
+			"updated": 1686076002407,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -191,8 +191,8 @@ Shared = Y; ^11BfgkIt
 		},
 		{
 			"type": "arrow",
-			"version": 987,
-			"versionNonce": 1839280496,
+			"version": 989,
+			"versionNonce": 500695798,
 			"isDeleted": false,
 			"id": "RG-0dI4uCTUwob9bSxsQo",
 			"fillStyle": "hachure",
@@ -213,7 +213,7 @@ Shared = Y; ^11BfgkIt
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1685374281285,
+			"updated": 1686076002407,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -246,8 +246,8 @@ Shared = Y; ^11BfgkIt
 		},
 		{
 			"type": "arrow",
-			"version": 161,
-			"versionNonce": 935004016,
+			"version": 163,
+			"versionNonce": 1305890666,
 			"isDeleted": false,
 			"id": "TzmalcwfzH0Shkgph7M5T",
 			"fillStyle": "hachure",
@@ -268,7 +268,7 @@ Shared = Y; ^11BfgkIt
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1685374300759,
+			"updated": 1686076002407,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -301,8 +301,8 @@ Shared = Y; ^11BfgkIt
 		},
 		{
 			"type": "rectangle",
-			"version": 141,
-			"versionNonce": 370938224,
+			"version": 143,
+			"versionNonce": 1560818742,
 			"isDeleted": false,
 			"id": "WSBR4YjJ9x_jLE1QedMk6",
 			"fillStyle": "hachure",
@@ -323,14 +323,14 @@ Shared = Y; ^11BfgkIt
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1685374342689,
+			"updated": 1686076002407,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 128,
-			"versionNonce": 1799140208,
+			"version": 130,
+			"versionNonce": 2112672298,
 			"isDeleted": false,
 			"id": "fbFgjf71hGTLNWXwyLmSH",
 			"fillStyle": "hachure",
@@ -351,14 +351,14 @@ Shared = Y; ^11BfgkIt
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1685374349278,
+			"updated": 1686076002407,
 			"link": null,
 			"locked": false
 		}
 	],
 	"appState": {
 		"theme": "dark",
-		"viewBackgroundColor": "#f1f1f1",
+		"viewBackgroundColor": "#c1f5ff",
 		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
@@ -371,10 +371,10 @@ Shared = Y; ^11BfgkIt
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 437,
-		"scrollY": 448.12109375,
+		"scrollX": 467.0233264806586,
+		"scrollY": 516.8130652547723,
 		"zoom": {
-			"value": 2
+			"value": 0.8636936899625057
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

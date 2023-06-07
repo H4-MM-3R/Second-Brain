@@ -54,7 +54,7 @@ Child Process ^n3z6EG0y
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.2",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.3",
 	"elements": [
 		{
 			"type": "rectangle",
@@ -1150,8 +1150,8 @@ Child Process ^n3z6EG0y
 		},
 		{
 			"type": "arrow",
-			"version": 1526,
-			"versionNonce": 992255376,
+			"version": 1528,
+			"versionNonce": 1122776438,
 			"isDeleted": false,
 			"id": "7If8CbkXxLX2RvVKMzu9m",
 			"fillStyle": "hachure",
@@ -1177,7 +1177,7 @@ Child Process ^n3z6EG0y
 					"id": "TlhjE7ND"
 				}
 			],
-			"updated": 1685373288935,
+			"updated": 1686076218713,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1383,7 +1383,7 @@ Child Process ^n3z6EG0y
 	],
 	"appState": {
 		"theme": "dark",
-		"viewBackgroundColor": "#f1f1f1",
+		"viewBackgroundColor": "#c1f5ff",
 		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
@@ -1396,8 +1396,8 @@ Child Process ^n3z6EG0y
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 746.8571428571428,
-		"scrollY": 419.73921130952374,
+		"scrollX": 672.75,
+		"scrollY": 419.19791666666663,
 		"zoom": {
 			"value": 1.4000000000000001
 		},

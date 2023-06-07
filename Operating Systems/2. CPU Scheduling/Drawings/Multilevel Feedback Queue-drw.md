@@ -49,7 +49,7 @@ FCFS ^RgQrulvI
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.2",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.3",
 	"elements": [
 		{
 			"type": "rectangle",
@@ -341,8 +341,8 @@ FCFS ^RgQrulvI
 		},
 		{
 			"type": "arrow",
-			"version": 175,
-			"versionNonce": 567672176,
+			"version": 176,
+			"versionNonce": 1317509226,
 			"isDeleted": false,
 			"id": "4WBI29F7CwaLBb2vteFhm",
 			"fillStyle": "hachure",
@@ -363,7 +363,7 @@ FCFS ^RgQrulvI
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1685373054300,
+			"updated": 1686076175777,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -388,8 +388,8 @@ FCFS ^RgQrulvI
 		},
 		{
 			"type": "arrow",
-			"version": 248,
-			"versionNonce": 212259216,
+			"version": 249,
+			"versionNonce": 1907096374,
 			"isDeleted": false,
 			"id": "6rpaRMnoc3XUTato9ilA4",
 			"fillStyle": "hachure",
@@ -410,7 +410,7 @@ FCFS ^RgQrulvI
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1685373054302,
+			"updated": 1686076175780,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -435,8 +435,8 @@ FCFS ^RgQrulvI
 		},
 		{
 			"type": "arrow",
-			"version": 321,
-			"versionNonce": 1641788272,
+			"version": 322,
+			"versionNonce": 1660139690,
 			"isDeleted": false,
 			"id": "VmWLRgURIqYfGV03cqAvZ",
 			"fillStyle": "hachure",
@@ -457,7 +457,7 @@ FCFS ^RgQrulvI
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1685373054303,
+			"updated": 1686076175782,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -529,8 +529,8 @@ FCFS ^RgQrulvI
 		},
 		{
 			"type": "arrow",
-			"version": 337,
-			"versionNonce": 1285876592,
+			"version": 339,
+			"versionNonce": 1239211434,
 			"isDeleted": false,
 			"id": "W00KyNgvr6lj1juZHXp1K",
 			"fillStyle": "hachure",
@@ -539,19 +539,19 @@ FCFS ^RgQrulvI
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 178.35901131956365,
-			"y": -294.66090212000915,
+			"x": 178.35901131956362,
+			"y": -294.6609020282071,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 143.51407190227462,
-			"height": 0.5068087935021595,
+			"width": 143.51407190227465,
+			"height": 0.506808842189514,
 			"seed": 1052768736,
 			"groupIds": [],
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1685373054300,
+			"updated": 1686076175777,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -573,15 +573,15 @@ FCFS ^RgQrulvI
 					0
 				],
 				[
-					143.51407190227462,
-					-0.5068087935021595
+					143.51407190227465,
+					-0.506808842189514
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 351,
-			"versionNonce": 1895178128,
+			"version": 353,
+			"versionNonce": 1009984630,
 			"isDeleted": false,
 			"id": "6dPx-Hq5bYfrl8WAVFTB2",
 			"fillStyle": "hachure",
@@ -602,7 +602,7 @@ FCFS ^RgQrulvI
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1685373054302,
+			"updated": 1686076175780,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -631,8 +631,8 @@ FCFS ^RgQrulvI
 		},
 		{
 			"type": "arrow",
-			"version": 407,
-			"versionNonce": 1962132848,
+			"version": 409,
+			"versionNonce": 1980437354,
 			"isDeleted": false,
 			"id": "Gh69hSxT1qxxVxH2wHQDt",
 			"fillStyle": "hachure",
@@ -653,7 +653,7 @@ FCFS ^RgQrulvI
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1685373054303,
+			"updated": 1686076175782,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -733,8 +733,8 @@ FCFS ^RgQrulvI
 		},
 		{
 			"type": "arrow",
-			"version": 837,
-			"versionNonce": 1781247376,
+			"version": 839,
+			"versionNonce": 377693622,
 			"isDeleted": false,
 			"id": "DYX-e_8yOWnGV8nifhgAY",
 			"fillStyle": "hachure",
@@ -753,7 +753,7 @@ FCFS ^RgQrulvI
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1685373054303,
+			"updated": 1686076175782,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -798,8 +798,8 @@ FCFS ^RgQrulvI
 		},
 		{
 			"type": "arrow",
-			"version": 902,
-			"versionNonce": 1487495536,
+			"version": 903,
+			"versionNonce": 794297834,
 			"isDeleted": false,
 			"id": "Z2Kai6ayOR_I__mOH2Bqr",
 			"fillStyle": "hachure",
@@ -818,7 +818,7 @@ FCFS ^RgQrulvI
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1685373054302,
+			"updated": 1686076175780,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -863,8 +863,8 @@ FCFS ^RgQrulvI
 		},
 		{
 			"type": "arrow",
-			"version": 1031,
-			"versionNonce": 1495894416,
+			"version": 1032,
+			"versionNonce": 309440566,
 			"isDeleted": false,
 			"id": "ioR6Nmyx2AoqzpgMDmvAb",
 			"fillStyle": "hachure",
@@ -883,7 +883,7 @@ FCFS ^RgQrulvI
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1685373054303,
+			"updated": 1686076175783,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1522,7 +1522,7 @@ FCFS ^RgQrulvI
 	],
 	"appState": {
 		"theme": "dark",
-		"viewBackgroundColor": "#f1f1f1",
+		"viewBackgroundColor": "#c1f5ff",
 		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
@@ -1535,10 +1535,10 @@ FCFS ^RgQrulvI
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 440.6471913239025,
-		"scrollY": 619.6093555806989,
+		"scrollX": 441.8971913239025,
+		"scrollY": 363.6620899556988,
 		"zoom": {
-			"value": 0.8
+			"value": 1.4000000000000001
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,

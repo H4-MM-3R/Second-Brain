@@ -1,5 +1,5 @@
 ### Critical Section Solution using "Lock" Variable
-![[Critical Section Solutions-drw|center]]
+
 ```c
 
 do{
@@ -10,6 +10,8 @@ do{
 
 // meaning if Lock equals to 1 then it goes infinite loop untill its not 1
 ```
+
+![[Critical Section Solutions Lock Variable-drw|center]]
 
 - Execute in **User Mode**
 - Multi-Process Solution
@@ -30,15 +32,4 @@ bool test_and_set(bool *target){
 }
 ```
 
-```mermaid
-graph LR
-	subgraph lock
-		a(val =)
-	end
-	target
-	subgraph r
-		b(val =)
-	end
-	target -..- a
-	target -..- b
-```
+![[Critical Section Solutions Test and Set-drw]]

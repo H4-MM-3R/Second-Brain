@@ -17,7 +17,7 @@ Connection ^v0W2txhl
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.2",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.3",
 	"elements": [
 		{
 			"type": "rectangle",
@@ -1664,7 +1664,7 @@ Connection ^v0W2txhl
 	],
 	"appState": {
 		"theme": "dark",
-		"viewBackgroundColor": "#f1f1f1",
+		"viewBackgroundColor": "#c1f5ff",
 		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
@@ -1677,8 +1677,8 @@ Connection ^v0W2txhl
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 427.5,
-		"scrollY": 322.12109375,
+		"scrollX": 375.625,
+		"scrollY": 321.7421875,
 		"zoom": {
 			"value": 2
 		},

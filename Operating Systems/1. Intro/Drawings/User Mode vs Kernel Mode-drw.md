@@ -44,7 +44,7 @@ Trap ^0kOAphFi
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.2",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.3",
 	"elements": [
 		{
 			"type": "rectangle",
@@ -476,8 +476,8 @@ Trap ^0kOAphFi
 		},
 		{
 			"type": "arrow",
-			"version": 77,
-			"versionNonce": 2004673392,
+			"version": 81,
+			"versionNonce": 1467547702,
 			"isDeleted": false,
 			"id": "NiVkA1iuTqlQa1HrTQBEK",
 			"fillStyle": "hachure",
@@ -496,7 +496,7 @@ Trap ^0kOAphFi
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1685373950309,
+			"updated": 1686076282182,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -525,8 +525,8 @@ Trap ^0kOAphFi
 		},
 		{
 			"type": "arrow",
-			"version": 103,
-			"versionNonce": 769939824,
+			"version": 107,
+			"versionNonce": 1435509750,
 			"isDeleted": false,
 			"id": "ZySgpZiixa_CYkzo5Cd7Q",
 			"fillStyle": "hachure",
@@ -545,7 +545,7 @@ Trap ^0kOAphFi
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1685373950310,
+			"updated": 1686076282184,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -574,8 +574,8 @@ Trap ^0kOAphFi
 		},
 		{
 			"type": "arrow",
-			"version": 92,
-			"versionNonce": 1157081968,
+			"version": 96,
+			"versionNonce": 185873718,
 			"isDeleted": false,
 			"id": "Xbgc0UFwsgXAF4zNpm5HP",
 			"fillStyle": "hachure",
@@ -594,7 +594,7 @@ Trap ^0kOAphFi
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1685373950310,
+			"updated": 1686076282184,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -976,7 +976,7 @@ Trap ^0kOAphFi
 	],
 	"appState": {
 		"theme": "dark",
-		"viewBackgroundColor": "#f1f1f1",
+		"viewBackgroundColor": "#c1f5ff",
 		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
@@ -989,10 +989,10 @@ Trap ^0kOAphFi
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 986.5653026297402,
-		"scrollY": 423.2346261444576,
+		"scrollX": 1004.1446677091053,
+		"scrollY": 498.068455509537,
 		"zoom": {
-			"value": 1.05
+			"value": 0.9
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

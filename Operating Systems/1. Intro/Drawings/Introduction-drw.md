@@ -32,7 +32,7 @@ Hardware ^InEodst8
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.2",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.3",
 	"elements": [
 		{
 			"type": "rectangle",
@@ -688,8 +688,8 @@ Hardware ^InEodst8
 		},
 		{
 			"type": "arrow",
-			"version": 145,
-			"versionNonce": 416866704,
+			"version": 147,
+			"versionNonce": 1430607926,
 			"isDeleted": false,
 			"id": "ah6KgZoL046DgFyxJdhQK",
 			"fillStyle": "hachure",
@@ -710,7 +710,7 @@ Hardware ^InEodst8
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1685373268547,
+			"updated": 1686076203158,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -743,8 +743,8 @@ Hardware ^InEodst8
 		},
 		{
 			"type": "arrow",
-			"version": 268,
-			"versionNonce": 650887024,
+			"version": 270,
+			"versionNonce": 243527210,
 			"isDeleted": false,
 			"id": "EenPX0-ldH4gQegetv09a",
 			"fillStyle": "hachure",
@@ -765,7 +765,7 @@ Hardware ^InEodst8
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1685373268547,
+			"updated": 1686076203158,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -798,8 +798,8 @@ Hardware ^InEodst8
 		},
 		{
 			"type": "arrow",
-			"version": 307,
-			"versionNonce": 939676016,
+			"version": 311,
+			"versionNonce": 2096666858,
 			"isDeleted": false,
 			"id": "lcFFOHuS2DaFVXkWfZ-9z",
 			"fillStyle": "hachure",
@@ -820,7 +820,7 @@ Hardware ^InEodst8
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1685373268547,
+			"updated": 1686076203159,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -849,8 +849,8 @@ Hardware ^InEodst8
 		},
 		{
 			"type": "arrow",
-			"version": 51,
-			"versionNonce": 651212144,
+			"version": 55,
+			"versionNonce": 1826809450,
 			"isDeleted": false,
 			"id": "_7-UxP_KCTfEFmjsnDU7D",
 			"fillStyle": "hachure",
@@ -871,7 +871,7 @@ Hardware ^InEodst8
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1685373268548,
+			"updated": 1686076203161,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -900,8 +900,8 @@ Hardware ^InEodst8
 		},
 		{
 			"type": "arrow",
-			"version": 14,
-			"versionNonce": 1943247248,
+			"version": 15,
+			"versionNonce": 1945406774,
 			"isDeleted": false,
 			"id": "fzkxX69dJ2Hsedw9P_RV6",
 			"fillStyle": "hachure",
@@ -922,7 +922,7 @@ Hardware ^InEodst8
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1685373268548,
+			"updated": 1686076203161,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -948,7 +948,7 @@ Hardware ^InEodst8
 	],
 	"appState": {
 		"theme": "dark",
-		"viewBackgroundColor": "#f1f1f1",
+		"viewBackgroundColor": "#c1f5ff",
 		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
@@ -961,8 +961,8 @@ Hardware ^InEodst8
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": "triangle",
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": 478.5,
-		"scrollY": 408.37890625,
+		"scrollX": 426.625,
+		"scrollY": 408,
 		"zoom": {
 			"value": 2
 		},

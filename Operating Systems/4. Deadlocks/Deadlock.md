@@ -9,6 +9,17 @@ Cant release the current process while the resource is holding it for another pr
 #### Hold & Wait
 Processes will hold resource and wait for another resource for neccessary requirement
 #### Circular Wait
-Loop of waiting for all the processes circular manner
+Loop of waiting for all the processes circular manner 
 
 
+
+- [ ] he
+- [x] he
+- [ ] he
+- [ ] eh
+- [x] he
+```cpp
+
+
+
+```

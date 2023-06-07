@@ -41,7 +41,7 @@ After P1 pre-empts or completes ^58DLyi5f
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.2",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.3",
 	"elements": [
 		{
 			"type": "rectangle",
@@ -483,8 +483,8 @@ After P1 pre-empts or completes ^58DLyi5f
 		},
 		{
 			"type": "arrow",
-			"version": 606,
-			"versionNonce": 1189686640,
+			"version": 608,
+			"versionNonce": 2029548662,
 			"isDeleted": false,
 			"id": "V77Y5IV45ZC-IUxa29nrq",
 			"fillStyle": "hachure",
@@ -493,11 +493,11 @@ After P1 pre-empts or completes ^58DLyi5f
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 27,
+			"x": 27.00000000000003,
 			"y": -198.2421875,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 329.4676882836266,
+			"width": 329.46768828362667,
 			"height": 160.99999999999997,
 			"seed": 1352865815,
 			"groupIds": [],
@@ -510,7 +510,7 @@ After P1 pre-empts or completes ^58DLyi5f
 					"id": "2t6Q0lvl"
 				}
 			],
-			"updated": 1685373938702,
+			"updated": 1686076274218,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -532,11 +532,11 @@ After P1 pre-empts or completes ^58DLyi5f
 					0
 				],
 				[
-					-158,
+					-158.00000000000003,
 					-126
 				],
 				[
-					-329.4676882836266,
+					-329.46768828362667,
 					34.99999999999997
 				]
 			]
@@ -579,8 +579,8 @@ After P1 pre-empts or completes ^58DLyi5f
 		},
 		{
 			"type": "arrow",
-			"version": 540,
-			"versionNonce": 1503568272,
+			"version": 542,
+			"versionNonce": 139441642,
 			"isDeleted": false,
 			"id": "olzGBml8KsjAPSk4dfYS4",
 			"fillStyle": "hachure",
@@ -606,7 +606,7 @@ After P1 pre-empts or completes ^58DLyi5f
 					"id": "q052fUwZ"
 				}
 			],
-			"updated": 1685373938703,
+			"updated": 1686076274219,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -675,8 +675,8 @@ After P1 pre-empts or completes ^58DLyi5f
 		},
 		{
 			"type": "arrow",
-			"version": 634,
-			"versionNonce": 239206256,
+			"version": 636,
+			"versionNonce": 773748150,
 			"isDeleted": false,
 			"id": "9foTcYpmjvLL3S9CQGH2m",
 			"fillStyle": "hachure",
@@ -702,7 +702,7 @@ After P1 pre-empts or completes ^58DLyi5f
 					"id": "dIYjnB7s"
 				}
 			],
-			"updated": 1685373938703,
+			"updated": 1686076274220,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -880,7 +880,7 @@ After P1 pre-empts or completes ^58DLyi5f
 	],
 	"appState": {
 		"theme": "dark",
-		"viewBackgroundColor": "#f1f1f1",
+		"viewBackgroundColor": "#c1f5ff",
 		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
@@ -893,10 +893,10 @@ After P1 pre-empts or completes ^58DLyi5f
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 349.0400085449219,
-		"scrollY": 425.60763888888886,
+		"scrollX": 357.10452467395413,
+		"scrollY": 467.83896169354836,
 		"zoom": {
-			"value": 1.8
+			"value": 1.55
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

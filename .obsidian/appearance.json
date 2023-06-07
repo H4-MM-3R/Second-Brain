@@ -1,7 +1,9 @@
 {
   "accentColor": "",
-  "baseFontSize": 14,
-  "cssTheme": "",
+  "baseFontSize": 19,
+  "cssTheme": "Minimal",
   "interfaceFontFamily": "Bookerly",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [],
+  "textFontFamily": "Bookerly Display"
 }

@@ -1,0 +1,62 @@
+{
+  "callouts": {
+    "custom": [],
+    "settings": {
+      "help": [
+        {
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "181, 137, 0"
+          }
+        }
+      ],
+      "info": [
+        {
+          "changes": {
+            "color": "42, 161, 152"
+          }
+        }
+      ],
+      "danger": [
+        {
+          "changes": {
+            "icon": "lucide-skull",
+            "color": "203, 75, 22"
+          }
+        }
+      ],
+      "check": [
+        {
+          "changes": {
+            "color": "113, 158, 7"
+          }
+        }
+      ],
+      "tip": [
+        {
+          "changes": {
+            "icon": "lucide-pencil",
+            "color": "42, 161, 152"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidianFallbackForced": false,
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

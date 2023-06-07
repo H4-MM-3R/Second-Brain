@@ -38,7 +38,7 @@ after P2 ^wBKJUrU4
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.2",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.3",
 	"elements": [
 		{
 			"type": "rectangle",
@@ -484,8 +484,8 @@ after P2 ^wBKJUrU4
 		},
 		{
 			"type": "arrow",
-			"version": 846,
-			"versionNonce": 126957424,
+			"version": 848,
+			"versionNonce": 1812431030,
 			"isDeleted": false,
 			"id": "SZk7VIaPdk7p2EpUCLmA0",
 			"fillStyle": "hachure",
@@ -511,7 +511,7 @@ after P2 ^wBKJUrU4
 					"id": "Tun6iWPB"
 				}
 			],
-			"updated": 1685373929469,
+			"updated": 1686076265219,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -580,8 +580,8 @@ after P2 ^wBKJUrU4
 		},
 		{
 			"type": "arrow",
-			"version": 1095,
-			"versionNonce": 1590966160,
+			"version": 1097,
+			"versionNonce": 1521913258,
 			"isDeleted": false,
 			"id": "73DokCxve2TMJ28H9P8wp",
 			"fillStyle": "hachure",
@@ -607,7 +607,7 @@ after P2 ^wBKJUrU4
 					"id": "7tz4yrhX"
 				}
 			],
-			"updated": 1685373929470,
+			"updated": 1686076265220,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -712,8 +712,8 @@ after P2 ^wBKJUrU4
 		},
 		{
 			"type": "arrow",
-			"version": 291,
-			"versionNonce": 1364773232,
+			"version": 293,
+			"versionNonce": 1006762486,
 			"isDeleted": false,
 			"id": "irA4O6ZmZpb8x_WDHTvUx",
 			"fillStyle": "hachure",
@@ -739,7 +739,7 @@ after P2 ^wBKJUrU4
 					"id": "wBKJUrU4"
 				}
 			],
-			"updated": 1685373929470,
+			"updated": 1686076265221,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -845,7 +845,7 @@ after P2 ^wBKJUrU4
 	],
 	"appState": {
 		"theme": "dark",
-		"viewBackgroundColor": "#f1f1f1",
+		"viewBackgroundColor": "#c1f5ff",
 		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
@@ -858,8 +858,8 @@ after P2 ^wBKJUrU4
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": null,
-		"scrollX": 290.7793305623525,
-		"scrollY": 407.40595678604564,
+		"scrollX": 238.90433056235253,
+		"scrollY": 407.02705053604564,
 		"zoom": {
 			"value": 2
 		},

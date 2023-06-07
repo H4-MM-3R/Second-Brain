@@ -34,7 +34,7 @@ First Come First Serve ^jfcCtpn6
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.2",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.3",
 	"elements": [
 		{
 			"type": "rectangle",
@@ -426,8 +426,8 @@ First Come First Serve ^jfcCtpn6
 		},
 		{
 			"type": "arrow",
-			"version": 1660,
-			"versionNonce": 1432663920,
+			"version": 1661,
+			"versionNonce": 1256789546,
 			"isDeleted": false,
 			"id": "sQvmVPsk2JJVULJ7L13Lk",
 			"fillStyle": "hachure",
@@ -453,7 +453,7 @@ First Come First Serve ^jfcCtpn6
 					"id": "xM9yuKQm"
 				}
 			],
-			"updated": 1685373235052,
+			"updated": 1686076184040,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -522,8 +522,8 @@ First Come First Serve ^jfcCtpn6
 		},
 		{
 			"type": "arrow",
-			"version": 552,
-			"versionNonce": 704165776,
+			"version": 553,
+			"versionNonce": 75118966,
 			"isDeleted": false,
 			"id": "leWVl3OD3etjNqaYDPSVp",
 			"fillStyle": "hachure",
@@ -549,7 +549,7 @@ First Come First Serve ^jfcCtpn6
 					"id": "jfcCtpn6"
 				}
 			],
-			"updated": 1685373235052,
+			"updated": 1686076184041,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -618,8 +618,8 @@ First Come First Serve ^jfcCtpn6
 		},
 		{
 			"type": "arrow",
-			"version": 488,
-			"versionNonce": 414992752,
+			"version": 489,
+			"versionNonce": 1115209962,
 			"isDeleted": false,
 			"id": "QmNIFcaO3df0_baCMBHWB",
 			"fillStyle": "hachure",
@@ -645,7 +645,7 @@ First Come First Serve ^jfcCtpn6
 					"id": "fG7VVpyh"
 				}
 			],
-			"updated": 1685373235053,
+			"updated": 1686076184042,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -715,7 +715,7 @@ First Come First Serve ^jfcCtpn6
 	],
 	"appState": {
 		"theme": "dark",
-		"viewBackgroundColor": "#f1f1f1",
+		"viewBackgroundColor": "#c1f5ff",
 		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
@@ -728,10 +728,10 @@ First Come First Serve ^jfcCtpn6
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 267.5,
-		"scrollY": 388.12109375,
+		"scrollX": 234.9210526315789,
+		"scrollY": 400.26850328947364,
 		"zoom": {
-			"value": 2
+			"value": 1.9000000000000001
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

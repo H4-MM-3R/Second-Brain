@@ -40,7 +40,7 @@ I/O ^lBkpi8PN
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.2",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.3",
 	"elements": [
 		{
 			"type": "rectangle",
@@ -405,8 +405,8 @@ I/O ^lBkpi8PN
 		},
 		{
 			"type": "arrow",
-			"version": 790,
-			"versionNonce": 201315696,
+			"version": 792,
+			"versionNonce": 1710364342,
 			"isDeleted": false,
 			"id": "Oh5oRzhT0zi0p3EHRY-Qj",
 			"fillStyle": "hachure",
@@ -415,11 +415,11 @@ I/O ^lBkpi8PN
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 0.8926601297926737,
+			"x": 0.8926507664147607,
 			"y": -181.26411902691132,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 190.2590899215199,
+			"width": 190.2590814556136,
 			"height": 129.93420541926594,
 			"seed": 1681258777,
 			"groupIds": [],
@@ -432,7 +432,7 @@ I/O ^lBkpi8PN
 					"id": "PrRkxbq7"
 				}
 			],
-			"updated": 1685373298396,
+			"updated": 1686076229507,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -454,7 +454,7 @@ I/O ^lBkpi8PN
 					0
 				],
 				[
-					-190.2590899215199,
+					-190.2590814556136,
 					129.93420541926594
 				]
 			]
@@ -582,8 +582,8 @@ I/O ^lBkpi8PN
 		},
 		{
 			"type": "arrow",
-			"version": 1791,
-			"versionNonce": 346454416,
+			"version": 1792,
+			"versionNonce": 988305322,
 			"isDeleted": false,
 			"id": "Vn9aTAeY0d-hTPu5gAWTW",
 			"fillStyle": "hachure",
@@ -607,7 +607,7 @@ I/O ^lBkpi8PN
 					"id": "szJU7jyY"
 				}
 			],
-			"updated": 1685373298397,
+			"updated": 1686076229509,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -668,8 +668,8 @@ I/O ^lBkpi8PN
 		},
 		{
 			"type": "arrow",
-			"version": 1217,
-			"versionNonce": 1815900016,
+			"version": 1221,
+			"versionNonce": 805250294,
 			"isDeleted": false,
 			"id": "sDgZX2TH0bjhajgPcrCy-",
 			"fillStyle": "hachure",
@@ -679,11 +679,11 @@ I/O ^lBkpi8PN
 			"opacity": 100,
 			"angle": 0,
 			"x": -230.87354113267082,
-			"y": 76.76732768380307,
+			"y": 76.76732768374139,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 424.28581502502533,
-			"height": 117.5190594152667,
+			"height": 117.5190594152101,
 			"seed": 206238327,
 			"groupIds": [],
 			"roundness": null,
@@ -693,7 +693,7 @@ I/O ^lBkpi8PN
 					"id": "a9AzUvOX"
 				}
 			],
-			"updated": 1685373298400,
+			"updated": 1686076229515,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -716,7 +716,7 @@ I/O ^lBkpi8PN
 				],
 				[
 					424.28581502502533,
-					-117.5190594152667
+					-117.5190594152101
 				]
 			]
 		},
@@ -758,8 +758,8 @@ I/O ^lBkpi8PN
 		},
 		{
 			"type": "arrow",
-			"version": 1590,
-			"versionNonce": 1992303504,
+			"version": 1594,
+			"versionNonce": 1184743402,
 			"isDeleted": false,
 			"id": "F8LVBccU52OVp2snKuiES",
 			"fillStyle": "hachure",
@@ -769,11 +769,11 @@ I/O ^lBkpi8PN
 			"opacity": 100,
 			"angle": 0,
 			"x": -219.87354113267082,
-			"y": 157.0324068831345,
+			"y": 157.03240688304473,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 414.6154931038736,
-			"height": 171.49469827339004,
+			"height": 171.4946982733106,
 			"seed": 1538793687,
 			"groupIds": [],
 			"roundness": null,
@@ -783,7 +783,7 @@ I/O ^lBkpi8PN
 					"id": "8divB01n"
 				}
 			],
-			"updated": 1685373298400,
+			"updated": 1686076229514,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -806,7 +806,7 @@ I/O ^lBkpi8PN
 				],
 				[
 					414.6154931038736,
-					-171.49469827339004
+					-171.4946982733106
 				]
 			]
 		},
@@ -957,8 +957,8 @@ I/O ^lBkpi8PN
 		},
 		{
 			"type": "arrow",
-			"version": 1177,
-			"versionNonce": 1869716848,
+			"version": 1178,
+			"versionNonce": 1259211702,
 			"isDeleted": false,
 			"id": "fqn2bS7o4la5bEWBfE9rU",
 			"fillStyle": "hachure",
@@ -979,7 +979,7 @@ I/O ^lBkpi8PN
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1685373298400,
+			"updated": 1686076229515,
 			"link": "",
 			"locked": false,
 			"startBinding": {
@@ -1008,8 +1008,8 @@ I/O ^lBkpi8PN
 		},
 		{
 			"type": "arrow",
-			"version": 146,
-			"versionNonce": 1809645936,
+			"version": 148,
+			"versionNonce": 570103350,
 			"isDeleted": false,
 			"id": "U5t6WvGtt_vt7i45b3CEk",
 			"fillStyle": "hachure",
@@ -1030,7 +1030,7 @@ I/O ^lBkpi8PN
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1685373298401,
+			"updated": 1686076229517,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1064,7 +1064,7 @@ I/O ^lBkpi8PN
 	],
 	"appState": {
 		"theme": "dark",
-		"viewBackgroundColor": "#f1f1f1",
+		"viewBackgroundColor": "#c1f5ff",
 		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
@@ -1077,8 +1077,8 @@ I/O ^lBkpi8PN
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 442.91366863653525,
-		"scrollY": 251.73005203156407,
+		"scrollX": 383.62795435082097,
+		"scrollY": 251.29701631727835,
 		"zoom": {
 			"value": 1.75
 		},

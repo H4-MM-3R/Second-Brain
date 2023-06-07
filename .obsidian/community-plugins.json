@@ -1,5 +1,10 @@
 [
   "mermaid-tools",
   "obsidian-excalidraw-plugin",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "dataview",
+  "obsidian-style-settings",
+  "obsidian-vimrc-support",
+  "obsidian-codemirror-options",
+  "callout-manager"
 ]

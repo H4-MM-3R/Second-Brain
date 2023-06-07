@@ -3,9 +3,11 @@
     "migrated": true,
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
     "fontSize": 16,
-    "emojiStyle": "none",
+    "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "FasFolder"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
