@@ -1,0 +1,14 @@
+{
+  "accentColor": "",
+  "baseFontSize": 17,
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "SF Pro Display",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "Admonition",
+    "BigPopOvers.css"
+  ],
+  "textFontFamily": "SF Pro Display",
+  "monospaceFontFamily": "Hack Nerd Font",
+  "translucency": false
+}

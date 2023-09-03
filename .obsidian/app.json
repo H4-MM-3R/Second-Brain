@@ -1,0 +1,12 @@
+{
+  "promptDelete": false,
+  "spellcheck": false,
+  "alwaysUpdateLinks": true,
+  "vimMode": true,
+  "readableLineLength": true,
+  "showFrontmatter": false,
+  "strictLineBreaks": true,
+  "propertiesInDocument": "source",
+  "showLineNumber": false,
+  "attachmentFolderPath": "Computer Science/Data Structures and Algorithms/FlashCards"
+}

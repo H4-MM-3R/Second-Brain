@@ -1,0 +1,4 @@
+- [ ] /getplayers
+- [ ] /getplayers/:id
+- [ ] /getplayersom/:id
+- [ ] /getteam/:homename/:awayname

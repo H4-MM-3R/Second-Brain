@@ -1,0 +1,7 @@
+.theme-dark {
+  --opacity-translucency: 0.6;
+}
+
+.theme-light {
+  --opacity-translucency: 0.5;
+}
